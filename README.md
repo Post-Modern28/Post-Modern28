@@ -5,7 +5,7 @@
   <div style="flex: 1;">
 
   - 🔭 I’m currently studying in [Innopolis university](https://innopolis.university/en/) 
-  - 🌱 I’m currently learning **Pytorch**
+  - 🌱 I’m currently learning **Computer vision**
   - 📫 How to reach me: **m.romanov@innopolis.university**
   - ⚡ Fun fact: **I've never flown on a plane**
 
